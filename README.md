@@ -1,6 +1,9 @@
 ## Zomato-Bangalore-Restaurants-EDA
 Area wise sales data
 
+## Problem Statement:
+The main goal of this project is to perform extensive Exploratory Data Analysis(EDA) on the Zomato Dataset and build an appropriate Machine Learning Model that will help various Zomato Restaurants to predict their respective Ratings based on certain features.
+
 ## Data Distribution:
 
 ![download (5)](https://user-images.githubusercontent.com/103435606/177053160-1a1838c7-7e19-4878-842f-ce657af3f955.png)
